@@ -307,7 +307,7 @@ void GameOver() {
             else {
                 game_over_text = "You win!";
             }
-        }
+        }mer
 
         DrawText(game_over_text, screenWidth/2 - MeasureText(game_over_text, 48) / 2, screenHeight / 2 - 48, 48, RED);
 
